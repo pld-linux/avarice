@@ -1,12 +1,12 @@
 Summary:	AVR JTAG ICE interface to GNU Debugger GDB
 Summary(pl):	Interfejs AVR JTAG ICEa dla GNU debugera GDB
 Name:		avarice
-Version:	2.2
+Version:	2.3
 Release:	0.1
 License:	GPL
 Group:		Development/Debuggers
 Source0:	http://dl.sourceforge.net/avarice/%{name}-%{version}.tar.gz
-# Source0-md5:	6b51c1516048b10615498b80f265ad1f
+# Source0-md5:	0fafa811914f47d3075888d8554ba37f
 URL:		http://avarice.sourceforge.net/
 Requires:	gdb >= 6.0.0
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
