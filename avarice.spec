@@ -5,7 +5,7 @@ Version:	2.3
 Release:	0.1
 License:	GPL
 Group:		Development/Debuggers
-Source0:	http://dl.sourceforge.net/avarice/%{name}-%{version}.tar.gz
+Source0:	http://osdn.dl.sourceforge.net/avarice/%{name}-%{version}.tar.gz
 # Source0-md5:	0fafa811914f47d3075888d8554ba37f
 URL:		http://avarice.sourceforge.net/
 Requires:	gdb >= 6.0.0
