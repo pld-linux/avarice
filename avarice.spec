@@ -1,5 +1,5 @@
 Summary:	AVR JTAG ICE interface to GNU Debugger GDB
-Summary(pl):	Interfejs AVR JTAG ICEa dla GNU debugera GDB
+Summary(pl.UTF-8):   Interfejs AVR JTAG ICEa dla GNU debugera GDB
 Name:		avarice
 Version:	2.3
 Release:	0.1
@@ -15,8 +15,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 AVaRICE is a program which interfaces the GNU Debugger GDB with the
 AVR JTAG ICE available from Atmel.
 
-%description -l pl
-AVaRICE jest programem, który jest nak³adk± na GNU debugera GDB dla
+%description -l pl.UTF-8
+AVaRICE jest programem, ktÃ³ry jest nakÅ‚adkÄ… na GNU debugera GDB dla
 AVR JTAG ICEa firmy Atmel.
 
 %prep
