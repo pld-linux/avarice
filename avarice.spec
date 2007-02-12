@@ -1,5 +1,5 @@
 Summary:	AVR JTAG ICE interface to GNU Debugger GDB
-Summary(pl.UTF-8):   Interfejs AVR JTAG ICEa dla GNU debugera GDB
+Summary(pl.UTF-8):	Interfejs AVR JTAG ICEa dla GNU debugera GDB
 Name:		avarice
 Version:	2.3
 Release:	0.1
