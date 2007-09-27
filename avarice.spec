@@ -10,6 +10,7 @@ Source0:	http://dl.sourceforge.net/avarice/%{name}-%{version}.tar.bz2
 URL:		http://avarice.sourceforge.net/
 Requires:	gdb >= 6.0.0
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
+BuildRequires:	binutils-devel
 
 %description
 AVaRICE is a program which interfaces the GNU Debugger GDB with the
